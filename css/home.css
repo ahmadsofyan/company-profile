@@ -1,0 +1,1165 @@
+@font-face {
+  font-family: "Poppins";
+  src: url();
+}
+.tengah {
+  position: relative;
+  height: 100px;
+  width: 1000px;
+}
+
+.tengah {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 5.2% auto 0;
+  padding: 0;
+}
+.tengah1 {
+  position: relative;
+  height: 500px;
+  width: 800px;
+}
+
+.tengah1 {
+  background: rgb(97, 88, 88);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+.swiper-container {
+  width: 100%;
+  height: 60px;
+}
+.our-product{
+  display: flex;
+  align-items: center;
+}
+.our-product .swiper-slide-next{
+  transform: scale(1.13);
+  transition: .3s;
+  box-shadow: 0px 16px 35px 10px rgba(0, 0, 0, .04);
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  box-shadow: 0 0 107px 18px rgba(0, 0, 0, .03);
+}
+.swiper-slide img {
+  display: block;
+  width: 157px;
+  height: 40px;
+  object-fit: cover;
+}
+.mySwiper1{
+  height: 380px;
+  width: 1180px;
+  padding: 20px 30px;
+}
+.mySwiper1 .swiper-slide{
+  border-radius: 5%;
+  width: 352px;
+  height: 272px;
+  margin-right: 60px;
+  align-items: flex-start;
+  margin-bottom: 5%;
+}
+.ini{
+  margin-top: 47px;
+  display: flex;
+  justify-content: space-between;
+  width: 50px;
+  margin-left: 45px;
+}
+.ini div{
+  display: flex;
+}
+.ini p{
+  color: #383838;
+  font-family: 'Poppins';
+  font-weight: bolder;
+  letter-spacing: .07rem;
+}
+.ini svg{
+  margin-top: 5px;
+  width: 16px;
+  height: 16px;
+  margin-right: 19px;
+}
+.ini .first-div{
+  margin-left: -60px;
+}
+.swiper-slide .btn{
+  margin-top: 200px;
+}
+.swiper-slide .btn-primary5{
+  margin-left: -180px;
+}
+.swiper-slide .btn-primary6{
+  margin-left: 30px;
+}
+.first-div .backlink-text{
+  margin-left: 25%;
+}
+.ini .second-div{
+  margin-left: 180%;
+}
+.ini .second-div-backlink{
+  margin-left: 160%;
+}
+.vector-img{
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.vector-img img{
+  position: absolute;
+  width: 11px;
+  height: 10.5px;
+}
+.vector-img .backlink-1{
+  top: 5px;
+  left: 5px;
+}
+.vector-img .backlink-2{
+  top: 11px;
+  left: .5px;
+}
+.container-fluid{
+    background-color:#A71111 ;
+    margin-top: 80px;
+}
+.col-6{
+  height: 200px;
+}
+.subheading {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+h5{
+  color: #A71111;
+  size: 16px;
+}
+.contact-us{
+  padding: 0 2%;
+}
+.contact-form{
+  display: grid;
+  grid-template-rows: repeat(4, auto);
+  padding-top: 1%;
+}
+.contact-form .form-control{
+  border-radius: 10px;
+  background-color: #F5F5F5;
+  padding: 20px 30px;
+  border: none;
+}
+.contact-form input{
+  height: 60px;
+}
+.contact-form .txt-area{
+  height: 141px;
+}
+.button .btn-primary3{
+  margin-top: 0;
+  width: 151px;
+  height: 51px;
+  margin-right: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.navbar-nav{
+  float: right;
+  padding-left: 153px;
+}
+.navbar-brand{
+  padding-left: 70px;
+}
+.nav-link{
+  margin-left: 60px;
+  font-weight: 700;
+  size: 14px;
+  font-family: 'Poppins';
+}
+.nav-link.active hr{
+  width: 6px;
+  height: 6px;
+  background-color: #A71111;
+  border-radius: 50%;
+  top: 20px;
+  left: 25px;
+}
+.nav-link1{
+  margin-left: 45%;
+}
+.carousel {
+  width: 95%;
+  margin-left: 3.5%;
+  height: 20%;
+}
+.carousel-mobile-bg{
+  display: none;
+}
+.carousel-bottom-btn{
+  display: none;
+}
+.carousel-bottom-btn button{
+  border-radius: 50%;
+  height: 38px;
+  width: 38px;
+}
+.carousel-inner{
+  border-radius: 20px;
+}
+.tulisanbawah{
+ margin: 9% 0 3% 25%;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  letter-spacing: 1px;
+}
+
+.tulisanbawah1{
+  margin-left: 25%;
+  color: #fff;
+  opacity: 60%;
+  margin-bottom: -5px;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Poppins';
+  letter-spacing: 2px;
+  line-height: 28px;
+  opacity: .6;
+}
+.tulisanbawah2{
+  margin: 9% 0 3% 30%;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: 'Poppins';
+  letter-spacing: 1px;
+}
+
+.text{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  letter-spacing: 2px;
+  line-height: 30px;
+}
+.txt-header2{
+  margin-bottom: 20px;
+}
+.header-paraf{
+  line-height: 28px;
+}
+.text1{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Poppins';
+  margin-bottom: -5px;
+  letter-spacing: 2px;
+
+}
+.textbawah1{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Poppins';
+  letter-spacing: 2px;
+  margin-bottom: 35px;
+}
+.text2{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Poppins';
+  font-style: normal;
+  color:#EE2F24 ;
+}
+.text3{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  color: #383838;
+  font-weight: 700;
+}
+
+.carousel-indicators [data-bs-target]{
+  width: 10px;
+  height: 10px;
+}
+
+.bulat{
+  border-radius: 50%;
+}
+
+.first-carousel{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  text-align: left;
+}
+
+.carousel-indicators .active {
+  width: 49px;
+  height: 10px;
+  border-radius: 12px;
+
+}
+.btn:hover{
+  background-color: white;
+}
+.btn-primary1 {
+  padding-top: 10px;
+  color: #fff;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:#A71111;
+  border-color:#A71111;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+.btn-primary3 {
+  padding-top: 10px;
+  color: #fff;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:#A71111;
+  border-color:#A71111;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  float: right;
+  margin-right: 28px;
+  margin-top: 70px;
+}
+.carousel-caption{
+  bottom: 50%;
+  transform: translateY(50%);
+}
+.carousel-caption .btn-primary4, .carousel-caption .btn-primary2{
+  width: 149px;
+  height: 49px;
+}
+.carousel-caption .btn-primary2{
+  margin-left: 16px;
+}
+.carousel-caption1{
+  bottom: 50%;
+  left: 10%;
+
+}
+.btn-primary2 {
+  padding-top: 10px;
+  color: #fff;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:transparent;
+  border-color:white;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+}
+.btn-primary4 {
+  padding-top: 10px;
+  color:black;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:#F5F5F5;
+  border-color:white;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+}
+.tads-car{
+  width: 78px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, .2);
+  font-family: 'Poppins';
+  font-size: .8rem;
+  padding-top: .7%;
+  margin-bottom: .8rem;
+}
+.tads-car:hover{
+  background-color: rgba(255, 255, 255, .2);
+}
+.fa-3x{
+  color: #fff;
+  opacity: 70%;
+}
+.fa-stack {
+  margin-left: 20px;
+}
+.fa-stack .fa{
+  font-size: 50px;
+}
+.fa-stack .tiktok{
+  margin-top: 2px;
+  margin-left: 6px;
+  width: 45px;
+  height: 45px;
+}
+.fa-stack1{
+  margin-left: 50px;
+}
+.copyright {
+ text-align: center;
+ margin-top: 90px;
+ Font-family: 'Poppins';
+Font-size: 12px;
+Line-height: 18px;
+Line-height: 100%;
+Letter-spacing: 7%;
+color: #fff;
+opacity: 60%;
+padding-bottom: 2%;
+}
+.form-control{
+  background-color: #F5F5F5;
+  font-weight: 400;
+  font-size: 14px;
+  Font-family: 'Poppins';
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+.form-control::placeholder{
+  font-size: 14px;
+  font-family: 'Poppins';
+  color: #737373;
+}
+.gambar{
+  width: 100%;
+  height: 40px;
+}
+.icon{
+  width: 500px;
+  margin-left: 27%;
+  height: 100px;
+  
+}
+.bg-light {
+  background-color: white;
+  opacity: 100%;
+}
+.lup{
+  width: 16.57px;
+  height: 16.57px;
+
+}
+.star{
+  height: 15px;
+  width: 15px;
+}
+.seo{
+  font-weight: 700;
+  font-size: 16px;
+  font-family: 'Poppins';
+  color: #000;
+}
+.angka{
+  font-weight: 400;
+  font-size: 16px;
+  font-family: 'Poppins';
+}
+.lorem{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Poppins';
+
+}
+.idr{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Poppins';
+  color: #EE2F24;
+  margin-left: -80px;
+}
+
+
+.owl-carousel .owl-item img {
+  width: 16px !important;
+  height: 16px;
+}
+ .col-md-3{
+  width: 70px !important;
+  height: 30px !important;
+
+}
+
+.atas{
+  width: 6px;
+  height: 6px;
+  border-radius: 100%;
+  background-color:red;
+  color:red;
+}
+.owl-dots{
+  display: none;
+}
+.nav-link .active{
+  background-color: red;
+}
+.google{
+width : 523px ; 
+height : 383px;
+border-radius: 20px;
+}
+.testing{
+ margin-left: -110px;
+  margin-top: 90px;
+  color: #737373;
+}
+.btn-primary5{
+  padding-top: 10px;
+  color:white;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:#A71111;
+  border-color:#A71111;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+}
+
+.btn-primary6{
+  padding-top: 10px;
+  color:red;
+  text-align: center;
+  size: 14px;
+  font-weight: 700;
+  font-family: 'Poppins';
+  background-color:#FFE9E8;
+  border-color:#FFE9E8;
+  width: 105px;
+  height: 46px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+
+}
+
+
+
+
+
+.form-control{
+  background-color: #F5F5F5;
+  font-weight: 400;
+  font-size: 14px;
+  Font-family: 'Poppins';
+}
+.carousel-indicators .active {
+  width: 30px;
+  height: 10px;
+  border-radius: 12px;
+
+}
+
+.footer-bottom{
+  padding: 0 7%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1430px) {
+  .nav-link1{
+    margin-left: 35%;
+  }
+}
+
+
+
+@media screen and (max-width: 1400px) {
+  .form-group{  
+    width: 400px;
+    float: left;
+    margin-top: -50px;  
+  }
+
+  .form-group1{
+    margin: 30px;
+    width: 400px;
+    float: left;
+  }
+
+  .btn-primary3 {
+    float: right;
+    margin-top: 40px;
+  }
+
+  .btn-primary1 {
+    padding-top: 10px;
+    color: #fff;
+    text-align: center;
+    size: 14px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    background-color:#A71111;
+    border-color:#A71111;
+    width: 105px;
+    height: 46px;
+    border-radius: 10px;
+    letter-spacing: 2px;  
+  }
+
+  .nav-link{
+    margin-left: 30px;
+    font-weight: 700;
+    size: 14px;
+    font-family: 'Poppins';
+  }
+
+  .navbar-brand{
+    padding-left: 30px;
+  }
+  
+  .form-control{
+    width: 525px;
+    height: 60px;
+  }
+  .tulisanbawah{
+    margin-top: 11%;
+    margin-left: 100px;
+     color: #fff;
+     font-size: 16px;
+     font-weight: 700;
+     font-family: 'Poppins';
+     letter-spacing: 1px;
+   }
+   
+   .tulisanbawah1{
+     margin-left: 100px;
+     color: #fff;
+     opacity: 60%;
+     margin-bottom: -5px;
+     font-weight: 400;
+     font-size: 13px;
+     font-family: 'Poppins';
+     letter-spacing: 2px;
+   }
+   .tulisanbawah2{
+    margin-left: 40px;
+    margin-top: 58px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+  }
+  .icon{
+    width: 230px;
+    margin-left: 20px;
+    height: 100px;
+}
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  
+  }
+  .carousel {
+    width: 95%;
+  }
+
+  .mySwiper1{
+    margin-left: -30px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .tulisanbawah, .tulisanbawah1{
+    margin-left: 60px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .nav-link1{
+    margin-left: 25%;
+  }
+
+  .nav-link{
+    margin-left: 20px;
+    font-weight: 700;
+    size: 14px;
+    font-family: 'Poppins';
+  }
+  .form-group{  
+    width: 300px;
+    float: left;
+    margin-top: -50px;  
+  }
+
+  .form-group1{
+    margin: 30px;
+    width: 300px;
+    float: left;
+  }
+
+  .google{
+    width : 500px ; 
+    height : 383px;
+    border-radius: 20px;
+    }
+    .form-control{
+      background-color: #F5F5F5;
+      font-weight: 400;
+      font-size: 14px;
+      Font-family: 'Poppins';
+      letter-spacing: 2px;
+      width: 95%;
+    }
+    .carousel {
+      width: 90%;
+      margin-left: 40px;
+    }
+
+  .mySwiper1{
+    width: 1000px;
+    margin-left: -20px;
+  }
+
+  .footer-bottom{
+    padding: 0 5%;
+  }
+
+  .button{
+    margin-right: 4%;
+  }
+
+  .our-product .swiper-slide-next{
+    transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .mySwiper1{
+    margin-left: -10px;
+    width: 950px;
+  }
+
+  .tengah{
+    width: 900px;
+  }
+
+  .tulisanbawah, .tulisanbawah1{
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .nav-link1{
+    margin-left: 15%;
+  }
+}
+
+@media screen and (max-width: 1020px) {
+  .nav-link1{
+    margin-left: 10%;
+  }
+
+  .mySwiper1{
+    margin-right: 0;
+    margin-left: 0;
+    width: 900px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  body{
+    position: relative;
+  }
+  .navbar{
+    position: absolute;
+    z-index: 200;
+    width: 100%;
+    top: 20px;
+  }
+  .logo-tads-2{
+    width: 146px;
+    height: 38px;
+  }
+  .hamburger-btn-navbar{
+    border: none;
+  }
+  .fa.fa-bars{
+    font-size: 30px;
+    color: white;
+  }
+  .navbar-light{
+    background-color: transparent;
+  }
+  .navbar-nav{
+    background-color: white;
+    width: 70%;
+    padding-left: 0;
+    padding-right: 5%;
+    padding-bottom: 1%;
+  }
+  .navbar-nav .nav-link, .nav-link1{
+    text-align: right;
+  }
+  .nav-link1{
+    margin-left: 0;
+    margin-bottom: 2%;
+  }
+  .nav-link.active hr{
+    display: none;
+  }
+  .tads-car{
+    display: none;
+  }
+  .carousel-inner .carousel-caption{
+    position: absolute;
+    left: 15%;
+    z-index: 1000;
+  }
+  .carousel-caption .btn-primary2{
+    display: none;
+  }
+  .carousel-caption .btn-primary4{
+    width: 118px;
+    height: 38px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    position: relative;
+  }
+  .btn-primary4 span{
+    position: absolute;
+    transform: translate(-50%, -10%);
+  }
+  .carousel-bottom-btn{
+    display: block;
+    position: absolute;
+    bottom: 10%;
+    left: 48%;
+    z-index: 100;
+  }
+  .carousel-indicators{
+    display: none;
+  }
+  .carousel-mobile-bg{
+    display: block;
+    position: absolute;
+    z-index: 3;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+  }
+  .carousel{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+  }
+  .carousel-inner{
+    z-index: 1;
+    border-radius: 0;
+    overflow: hidden;
+    height: 100vh;
+  }
+  .first-carousel{
+    justify-content: center;
+    text-align: center;
+  }
+  .carousel-item{
+    height: 100vh;
+  }
+  .carousel-item img{
+    min-height: 100vh;
+    transform: scale(1.13);
+  }
+  .text{
+    line-height: 27px;
+  }
+  .linear-bg{
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.8));
+  }
+  .subheading .text2{
+    font-size: 14px;
+  }
+  .subheading .text3{
+    font-size: 20px;
+  }
+
+  .mySwiper1{
+    margin-left: -10%;
+    width: 850px;
+  }
+
+  .tengah{
+    width: 850px;
+  }
+
+  .mySwiper1 .swiper-slide{
+    width: 310px;
+  }
+
+  .button .btn-primary3{
+    width: 100px;
+    height: 43px;
+    font-size: 14px;
+  }
+
+  .tulisanbawah, .tulisanbawah1, .tulisanbawah2, .icon{
+    margin-left: 5%;
+  }
+
+  .fa-stack{
+    height: 25px;
+    width: 25px;
+    margin-left: 20px;
+  }
+
+  .fa-stack:first-child{
+    margin-left: 0;
+  }
+
+  .fa-stack .fa{
+    font-size: 40px;
+  }
+
+  .fa-stack .tiktok{
+    width: 35px;
+    height: 35px;
+  }
+
+  .tulisanbawah{
+    font-size: 14px;
+  }
+
+  .tulisanbawah1{
+    font-size: 12px;
+    opacity: .8;
+  }
+
+  .tulisanbawah2{
+    font-size: 14px;
+  }
+
+  .copyright{
+    margin-top: 5%;
+    padding-bottom: 5%;
+  }
+
+  .contact-form .form-control{
+    border: none;
+  }
+  
+}
+
+@media screen and (max-width: 900px) {
+  .tengah{
+    width: 700px;
+  }
+
+  .mySwiper1{
+    width: 750px;
+    margin-left: -3%;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .tulisanbawah, .tulisanbawah1{
+    margin-left: -2%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .mySwiper1{
+    width: 500px;
+    margin-left: 15%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .tulisanbawah, .tulisanbawah1{
+    margin-left: 5%;
+  }
+
+  .copyright{
+    margin-top: -2%;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .pembungkus{
+    margin-left: 30px;
+  }
+
+  .contact-us{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .contact-form{
+    margin-bottom: 10%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .pembungkus{
+    margin-left: 30px;
+  }
+
+  .tengah{
+    width: 250px;
+  }
+
+  /* .mySwiper1{
+    margin-left: -5%;
+  } */
+}
+
+@media screen and (max-width: 700px) {
+  .mySwiper1{
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .pembungkus{
+    margin-left: 10px;
+  }
+  .mySwiper1{
+    width: 400px;
+  }
+  .carousel-bottom-btn{
+    left: 45%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .pembungkus{
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .pembungkus{
+    margin-left: -20px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .pembungkus{
+    margin-left: -40px;
+  }
+
+  .tulisanbawah, .tulisanbawah1, .tulisanbawah2, .icon{
+    margin-left: 0;
+  }
+
+  .tulisanbawah1{
+    font-size: 9px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .ini .first-div p, .ini .second-div p, .ini .second-div-backlink p{
+    font-size: 16px;
+  }
+  .ini .second-div p{
+    margin-top: 3px;
+  }
+  .testing .lorem{
+    font-size: 12px;
+    margin-left: 0;
+  }
+  .testing .idr{
+    margin-left: -70px;
+    font-size: 12px;
+  }
+  .btn-primary5, .btn-primary6{
+    width: 90px;
+    height: 41px;
+    font-size: 12px;
+  }
+  .swiper-slide .btn-primary5{
+    margin-left: -150px;
+  }
+  .ini .second-div-backlink{
+    margin-left: 130%;
+  }
+  .mySwiper1{
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+
+  .tulisanbawah, .tulisanbawah1, .tulisanbawah2, .icon{
+    margin-left: -1%;
+  }
+}
